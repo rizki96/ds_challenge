@@ -1,7 +1,7 @@
 jupyter
 pandas
 numpy
-geohash
+python-geohash
 seaborn
 matplotlib
 scikit-learn
