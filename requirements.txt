@@ -1,6 +1,7 @@
 jupyter
 pandas
 numpy
+requests
 python-geohash
 seaborn
 matplotlib
