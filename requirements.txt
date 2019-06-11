@@ -8,5 +8,6 @@ matplotlib
 scikit-learn
 shapely
 geopy
+pystan
 gluonts
 fbprophet
