@@ -10,4 +10,4 @@ shapely
 geopy
 pystan
 gluonts
-fbprophet
+keras
