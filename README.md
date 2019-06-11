@@ -9,3 +9,7 @@ Installation :
 * open the notebook file -> Traffic Management/traffic_mgmt_daily_pred.ipynb from browser
 
 Google Colab version : https://drive.google.com/open?id=1wrP54F6QnGRm0ONO0Zexz3aQp7NmkN4W
+
+TODO:
+- parameters tuning for daily prediction
+- weekly prediction
