@@ -11,3 +11,4 @@ geopy
 pystan
 gluonts
 keras
+tensorflow
